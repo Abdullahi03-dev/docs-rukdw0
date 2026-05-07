@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Abdullahi03-dev.github.io/docs-rukdw0/sitemap.xml
